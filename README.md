@@ -6,4 +6,4 @@
 * node.js
 * tailwindcss
 
-* imported phosphor-react for icon family interfaces
+...more:  imported phosphor-react for icon family interfaces
